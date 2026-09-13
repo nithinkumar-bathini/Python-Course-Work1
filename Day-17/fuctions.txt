@@ -1,0 +1,12 @@
+Fuction 
+---------
+1. A Function is a reusable block od code used to perform secific task.
+2. Instead of writing the same code again and again, we can put it inside a function and call the function whenever we need it.
+3. A Fuction is defines as keyword def()
+4. Fuctions can give back outputs using return.
+5. Code Reusable - write code once and use many times.
+6. Reduce code repitition.
+7. Makes program easier to understand.
+8. Makes Debugging easier.
+9. Functions are two types: 1. Built-in function 2. User defined function
+
