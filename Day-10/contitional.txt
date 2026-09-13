@@ -1,0 +1,30 @@
+Conditional Statements
+----------------------
+1. simpleif : only one condition
+2. if-else : two conditions
+3. elif lader : multiple conditions
+4. nested if : condition inside condition
+----------------------
+Syntax
+----------------------
+if cond:
+    #Statement
+----------------------
+if condition:
+    #Statement
+else:
+    #Statement
+----------------------
+if condition:
+    #Statement
+elif condition2:
+    #statement2
+elif condition3:
+    #statement3
+else:(optional)
+    #statement4
+-----------------------
+if contdition1:
+    if conditions2:
+        #statement
+-----------------------
