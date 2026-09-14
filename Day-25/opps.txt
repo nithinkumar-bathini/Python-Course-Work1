@@ -1,0 +1,12 @@
+OOPs : Object Oriented Programming 
+OOPs means where the users action is present 
+Class: class is a blueprint of a Object.
+Object: object is a instance of a class.
+Arguments: arguments are same as variable they used to store the values.
+Methods: methods are same as functions.
+
+Types of OPPs:
+1. Encapsulation: Encapsulation provides data security and wrap the data.
+2. Inheritance: we can reuse properties and methods from another class.
+3. Polymorphism: one method can behave differently.
+4. Abtraction: we hide the complexity and unnecessary implementation and show only needed.
